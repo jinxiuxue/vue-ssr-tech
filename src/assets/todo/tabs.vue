@@ -53,6 +53,7 @@ export default {
     font-size: 16px;
     line-height: 44px;
     overflow: hidden;
+    font-weight:900;
     .left{
         float: left;
         display: block;
