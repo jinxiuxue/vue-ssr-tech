@@ -1,6 +1,6 @@
 <template lang='html'>
     <div id="header">
-        Jtodo
+        Jtodo-v1
     </div>
 </template>
 
